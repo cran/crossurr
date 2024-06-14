@@ -1,7 +1,7 @@
-b50c4dd3f5f75110f7a616c215aff245 *DESCRIPTION
+f57a118fa0870ab6ed75db88ef7cb646 *DESCRIPTION
 a2fec8729e2c8641cf80e1c47cf6b571 *LICENSE
 731df665f2d43dcd7280df2bec6e5e58 *NAMESPACE
-d0ed68144cca496115ac210309e25506 *NEWS.md
+faeaed459ffaea1c6a7cff131ec0c247 *NEWS.md
 aa17eb50d2399b7ee686be523fd4c762 *R/crossurr-package.R
 341ea6aa1949562d6aa7cbec135af179 *R/fold_fit.R
 3f3717cf5e2b7a8f99a9073b3369776c *R/lasso.R
@@ -11,13 +11,13 @@ fa30db51b451efb1ffe0e95f9da27d7f *R/sis.R
 86678e65fd3c8aeca6973daa475568f4 *R/super_learn.R
 c33c6674f26fae6e7d627bb31afefee5 *R/xf_surrogate.R
 41fe6cd32611ffbf1b864f25796a7efa *R/xfit.R
-ab27b907fce0da3b859fcacd10eccfd4 *R/xfit_dr.R
+7398df8d2b2277a14ca75589ab282f35 *R/xfit_dr.R
 afa77355d98b32443c757d9f704c333e *R/xfit_lasso.R
 c5efabd4d895c7686d3b4afe43611256 *R/xfit_sis.R
 ec5669bfa5fb490a862a8b50beff3f87 *R/xfit_sl.R
 8bde39f3b063fa7441fe32f280ebf737 *R/xfr_surrogate.R
-7b0c332b480bf1e2d497aaad8f877e7a *README.md
-a2219941c8e3994995979d1bbd715e7a *inst/CITATION
+80aaf860d69169382c6b2b84ec890de1 *README.md
+a2af9ab7aaf76e4f67cb9de76bc63460 *inst/CITATION
 4df198eb0d43b08198562b37deb9e674 *man/crossurr-package.Rd
 96ece62499f1dad0f588ce8bacf8085e *man/lasso.Rd
 359e2f5346c062588c6b50d9685240d0 *man/ols.Rd

@@ -2,7 +2,7 @@ Package: crossurr
 Type: Package
 Title: Cross-Fitting for Doubly Robust Evaluation of High-Dimensional
         Surrogate Markers
-Version: 1.0.6
+Version: 1.1.1
 Authors@R: c(person("Denis", "Agniel", role = c("aut", "cre"),
                     email = "dagniel@rand.org"),
 	           person("Boris P.", "Hejblum", role = c("aut"),
@@ -17,9 +17,9 @@ Imports: dplyr, gbm, glmnet, glue, parallel, pbapply, purrr, ranger,
 Encoding: UTF-8
 RoxygenNote: 7.2.1
 NeedsCompilation: no
-Packaged: 2022-10-21 11:43:26 UTC; denisagniel
+Packaged: 2024-06-14 20:51:34 UTC; boris
 Author: Denis Agniel [aut, cre],
   Boris P. Hejblum [aut]
 Maintainer: Denis Agniel <dagniel@rand.org>
 Repository: CRAN
-Date/Publication: 2022-10-21 15:25:07 UTC
+Date/Publication: 2024-06-14 21:20:02 UTC
